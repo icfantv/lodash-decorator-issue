@@ -1,0 +1,32 @@
+{
+  "name": "lodash-decorator-issue",
+  "version": "1.0.0",
+  "description": "attempt at reproducing lodash-decorator issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icfantv/lodash-decorator-issue.git"
+  },
+  "author": "Adam Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icfantv/lodash-decorator-issue/issues"
+  },
+  "homepage": "https://github.com/icfantv/lodash-decorator-issue#readme",
+  "devDependencies": {
+    "@types/jest": "^23.0.0",
+    "@types/react": "^16.3.16",
+    "@types/react-test-renderer": "^16.0.1",
+    "jest": "^23.1.0",
+    "react-test-renderer": "^16.4.0",
+    "ts-jest": "^22.4.6",
+    "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "lodash-decorators": "^5.0.1",
+    "react": "^16.4.0"
+  }
+}
