@@ -3,8 +3,8 @@ import { create } from 'react-test-renderer'
 
 import { TextButton } from './TextButton'
 
-describe('the <IconButton/> component', () => {
-  test('it should use the specified icon', () => {
+describe('the <TextButton/> component', () => {
+  test('it should render the button', () => {
     const tree = create(<TextButton onClick={() => {}} />).toJSON()
     expect(tree).toMatchSnapshot()
   })
