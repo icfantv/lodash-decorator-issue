@@ -2175,11 +2175,11 @@ locate-path@^2.0.0:
     p-locate "^2.0.0"
     path-exists "^3.0.0"
 
-lodash-decorators@^5.0.1:
-  version "5.0.1"
-  resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/lodash-decorators/-/lodash-decorators-5.0.1.tgz#5b0eca821787bf748c8311b20db88556df10ce11"
+lodash-decorators@^6.0.0:
+  version "6.0.0"
+  resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/lodash-decorators/-/lodash-decorators-6.0.0.tgz#4e0639ba639d738e5f4993acf54bf292cc95d851"
   dependencies:
-    tslib "^1.7.1"
+    tslib "^1.9.2"
 
 lodash.sortby@^4.7.0:
   version "4.7.0"
@@ -3340,9 +3340,9 @@ ts-jest@^22.4.6:
     source-map-support "^0.5.5"
     yargs "^11.0.0"
 
-tslib@^1.7.1:
-  version "1.9.2"
-  resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/tslib/-/tslib-1.9.2.tgz#8be0cc9a1f6dc7727c38deb16c2ebd1a2892988e"
+tslib@^1.9.2:
+  version "1.9.3"
+  resolved "https://artifactory.workday.com/artifactory/api/npm/npm-virtual/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
 
 tunnel-agent@^0.6.0:
   version "0.6.0"

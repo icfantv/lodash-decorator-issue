@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`the <IconButton/> component it should use the specified icon 1`] = `
+exports[`the <TextButton/> component it should render the button 1`] = `
 <button
   onClick={[Function]}
 >
